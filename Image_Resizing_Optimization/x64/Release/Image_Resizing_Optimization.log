@@ -1,0 +1,135 @@
+﻿  main.cpp
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\segmenatation.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\segmenatation.h(161,41): warning C4267: '=': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(68,54): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(69,58): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(72,68): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(73,35): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(76,35): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(77,74): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(101,111): warning C4244: '引數': 將 'const double' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(167,57): warning C4267: '=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(224,79): warning C4244: '引數': 將 'T' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(224,121): warning C4244: '引數': 將 'T' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(225,79): warning C4244: '引數': 將 'T' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(225,121): warning C4244: '引數': 將 'T' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(403,73): warning C4244: '=': 將 'IloNum' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(404,77): warning C4244: '=': 將 'IloNum' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(497,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(529,60): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(529,50): warning C4244: '引數': 將 '_Tp' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(567,110): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(567,120): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(568,20): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(569,24): warning C4244: '正在初始化': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(594,100): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(594,110): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(595,20): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(596,24): warning C4244: '正在初始化': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  正在產生程式碼
+  1 of 1091 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Image_Resizing_Optimization.vcxproj -> C:\Users\user\source\repos\Image_Resizing_Optimization\x64\Release\Image_Resizing_Optimization.exe

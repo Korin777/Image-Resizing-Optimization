@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\main.h(4,10): fatal error C1083: 無法開啟包含檔案: 'opencv\cv.hpp': No such file or directory
+  display.cpp
+C:\Users\user\source\repos\Image_Resizing_Optimization\Image_Resizing_Optimization\display.h(2,10): fatal error C1083: 無法開啟包含檔案: 'SDL2\SDL.h': No such file or directory
+  正在產生程式碼...
